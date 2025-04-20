@@ -1,7 +1,10 @@
 {
-	"geode": "3.4.0",
+	"geode": "4.3.1",
 	"gd": {
-		"win": "2.206"
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
 	},
 	"version": "v0.0.0-beta.3",
 	"id": "user95401.custom_patcher",
